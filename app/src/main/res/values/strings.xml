@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project UTS - 00000013226</string>
+
+    <string name="user_name">user</string>
+    <string name="user_password">useruser</string>
+
+    <string name="login_preference">com.example.week03_login_preference</string>
+    <string name="login_status_preference">com.example.week03_login_status_preference</string>
+</resources>
